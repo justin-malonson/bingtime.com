@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "flatpickr": "^4.6.6",
+    "fastclick": "^1.0.6",
+    "font-awesome": "^4.7.0",
+    "ionicons": "^4.5.5",
+    "jquery": "^3.3.1",
+    "pace-js": "^1.0.2",
+    "select2": "^4.0.5",
+    "jquery-validation": "^1.19.0",
+    "dropzone": "^5.5.1",
+    "toastr": "^2.1.4",
+    "code-prettify": "^0.1.0",
+    "datatables.net-responsive-bs": "^2.2.3",
+    "he": "^1.2.0",
+    "trumbowyg": "^2.21.0"
+  }
+}

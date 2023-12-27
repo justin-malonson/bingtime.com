@@ -1,0 +1,23 @@
+.main-header {
+    display: none;
+}
+
+.main-sidebar {
+    display: none;
+}
+
+.main-footer {
+    display: none;
+}
+
+html, body {
+    height: 100% !important;
+}
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #ecf0f5;
+}
+
+.content-wrapper, .main-footer {
+    margin-left: 0;
+}

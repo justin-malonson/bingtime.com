@@ -1,0 +1,37 @@
+input[type=date].form-control, input[type=time].form-control, input[type=datetime-local].form-control, input[type=month].form-control {
+    line-height: 19px;
+}
+
+.timeline-body {
+    word-wrap: break-word;
+}
+
+.timeline-footer {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.timeline-footer label {
+    padding: 0.5rem 0.6rem;
+}
+
+textarea {
+    max-width: 100%;
+    max-height: 100%;
+    resize: vertical;
+}
+
+.dropzone {
+    border: 2px dashed #0087F7
+}
+
+@media only screen and (max-width: 768px) {
+    .select-user {
+        width: 220px
+    }
+}
+@media only screen and (max-width: 768px) {
+    .select-contacts-list {
+        width: 125px
+    }
+}
